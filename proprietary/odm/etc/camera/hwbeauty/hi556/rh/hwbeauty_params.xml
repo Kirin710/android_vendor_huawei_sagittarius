@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="GB2312"?>
+<HwBeautyParams  faceAttr="1"  paramVersion="50">
+	<Mode name="Preview">
+		<ParamterDefault>
+			<Level1 SkinSoften="1" SkinSoftenMode="0" SkinToneBright="0" FaceSlender="0" />
+			<Level2 SkinSoften="5" SkinSoftenMode="0" SkinToneBright="0" FaceSlender="0" />
+			<Level3 SkinSoften="10" SkinSoftenMode="0" SkinToneBright="0" FaceSlender="0" />
+			<Level4 SkinSoften="15" SkinSoftenMode="0" SkinToneBright="0" FaceSlender="0" />
+			<Level5 SkinSoften="20" SkinSoftenMode="0" SkinToneBright="0" FaceSlender="0" />
+			<Level6 SkinSoften="25" SkinSoftenMode="0" SkinToneBright="0" FaceSlender="0" />
+			<Level7 SkinSoften="30" SkinSoftenMode="0" SkinToneBright="0" FaceSlender="0" />
+			<Level8 SkinSoften="35" SkinSoftenMode="0" SkinToneBright="0" FaceSlender="0" />
+			<Level9 SkinSoften="40" SkinSoftenMode="0" SkinToneBright="0" FaceSlender="0" />
+			<Level10 SkinSoften="45" SkinSoftenMode="0" SkinToneBright="0" FaceSlender="0" />
+		</ParamterDefault>
+	</Mode>
+	<Mode name="Capture">
+		<ParamterDefault>
+			<Level1 SkinSoften="1" SkinToneBright="0" NoseHighlight="0" LipBeauty="0" EyeBrighten="0" FaceSlender="0" EyeEnlargement="0" Depouch="0" Deblemish="100" RemoveShine="0" Relighting="0" TeethWhiten="0" SkinToneStyle="0"/>
+			<Level2 SkinSoften="5" SkinToneBright="0" NoseHighlight="0" LipBeauty="0" EyeBrighten="0" FaceSlender="0" EyeEnlargement="0" Depouch="0" Deblemish="100" RemoveShine="0" Relighting="0" TeethWhiten="0" SkinToneStyle="0"/>
+			<Level3 SkinSoften="10" SkinToneBright="0" NoseHighlight="0" LipBeauty="0" EyeBrighten="0" FaceSlender="0" EyeEnlargement="0" Depouch="0" Deblemish="100" RemoveShine="0" Relighting="0" TeethWhiten="0" SkinToneStyle="0"/>
+			<Level4 SkinSoften="15" SkinToneBright="0" NoseHighlight="0" LipBeauty="0" EyeBrighten="0" FaceSlender="0" EyeEnlargement="0" Depouch="0" Deblemish="100" RemoveShine="0" Relighting="0" TeethWhiten="0" SkinToneStyle="0"/>
+			<Level5 SkinSoften="20" SkinToneBright="0" NoseHighlight="0" LipBeauty="0" EyeBrighten="0" FaceSlender="0" EyeEnlargement="0" Depouch="0" Deblemish="100" RemoveShine="0" Relighting="0" TeethWhiten="0" SkinToneStyle="0"/>
+			<Level6 SkinSoften="25" SkinToneBright="0" NoseHighlight="0" LipBeauty="0" EyeBrighten="0" FaceSlender="0" EyeEnlargement="0" Depouch="0" Deblemish="100" RemoveShine="0" Relighting="0" TeethWhiten="0" SkinToneStyle="0"/>
+			<Level7 SkinSoften="30" SkinToneBright="0" NoseHighlight="0" LipBeauty="0" EyeBrighten="0" FaceSlender="0" EyeEnlargement="0" Depouch="0" Deblemish="100" RemoveShine="0" Relighting="0" TeethWhiten="0" SkinToneStyle="0"/>
+			<Level8 SkinSoften="35" SkinToneBright="0" NoseHighlight="0" LipBeauty="0" EyeBrighten="0" FaceSlender="0" EyeEnlargement="0" Depouch="0" Deblemish="100" RemoveShine="0" Relighting="0" TeethWhiten="0" SkinToneStyle="0"/>
+			<Level9 SkinSoften="40" SkinToneBright="0" NoseHighlight="0" LipBeauty="0" EyeBrighten="0" FaceSlender="0" EyeEnlargement="0" Depouch="0" Deblemish="100" RemoveShine="0" Relighting="0" TeethWhiten="0" SkinToneStyle="0"/>
+			<Level10 SkinSoften="45" SkinToneBright="0" NoseHighlight="0" LipBeauty="0" EyeBrighten="0" FaceSlender="0" EyeEnlargement="0" Depouch="0" Deblemish="100" RemoveShine="0" Relighting="0" TeethWhiten="0" SkinToneStyle="0"/>
+		</ParamterDefault>
+	</Mode>
+	<Mode name="Dark">
+		<ParamterDefault>
+			<Level1 SkinSoften="1" SkinToneBright="0" NoseHighlight="0" LipBeauty="0" EyeBrighten="0" FaceSlender="0" EyeEnlargement="0" Depouch="0" Deblemish="100" RemoveShine="0" Relighting="0" TeethWhiten="0" SkinToneStyle="0"/>
+			<Level2 SkinSoften="5" SkinToneBright="0" NoseHighlight="0" LipBeauty="0" EyeBrighten="0" FaceSlender="0" EyeEnlargement="0" Depouch="0" Deblemish="100" RemoveShine="0" Relighting="0" TeethWhiten="0" SkinToneStyle="0"/>
+			<Level3 SkinSoften="10" SkinToneBright="0" NoseHighlight="0" LipBeauty="0" EyeBrighten="0" FaceSlender="0" EyeEnlargement="0" Depouch="0" Deblemish="100" RemoveShine="0" Relighting="0" TeethWhiten="0" SkinToneStyle="0"/>
+			<Level4 SkinSoften="15" SkinToneBright="0" NoseHighlight="0" LipBeauty="0" EyeBrighten="0" FaceSlender="0" EyeEnlargement="0" Depouch="0" Deblemish="100" RemoveShine="0" Relighting="0" TeethWhiten="0" SkinToneStyle="0"/>
+			<Level5 SkinSoften="20" SkinToneBright="0" NoseHighlight="0" LipBeauty="0" EyeBrighten="0" FaceSlender="0" EyeEnlargement="0" Depouch="0" Deblemish="100" RemoveShine="0" Relighting="0" TeethWhiten="0" SkinToneStyle="0"/>
+			<Level6 SkinSoften="25" SkinToneBright="0" NoseHighlight="0" LipBeauty="0" EyeBrighten="0" FaceSlender="0" EyeEnlargement="0" Depouch="0" Deblemish="100" RemoveShine="0" Relighting="0" TeethWhiten="0" SkinToneStyle="0"/>
+			<Level7 SkinSoften="30" SkinToneBright="0" NoseHighlight="0" LipBeauty="0" EyeBrighten="0" FaceSlender="0" EyeEnlargement="0" Depouch="0" Deblemish="100" RemoveShine="0" Relighting="0" TeethWhiten="0" SkinToneStyle="0"/>
+			<Level8 SkinSoften="35" SkinToneBright="0" NoseHighlight="0" LipBeauty="0" EyeBrighten="0" FaceSlender="0" EyeEnlargement="0" Depouch="0" Deblemish="100" RemoveShine="0" Relighting="0" TeethWhiten="0" SkinToneStyle="0"/>
+			<Level9 SkinSoften="40" SkinToneBright="0" NoseHighlight="0" LipBeauty="0" EyeBrighten="0" FaceSlender="0" EyeEnlargement="0" Depouch="0" Deblemish="100" RemoveShine="0" Relighting="0" TeethWhiten="0" SkinToneStyle="0"/>
+			<Level10 SkinSoften="45" SkinToneBright="0" NoseHighlight="0" LipBeauty="0" EyeBrighten="0" FaceSlender="0" EyeEnlargement="0" Depouch="0" Deblemish="100" RemoveShine="0" Relighting="0" TeethWhiten="0" SkinToneStyle="0"/>
+		</ParamterDefault>
+	</Mode>
+</HwBeautyParams>
+

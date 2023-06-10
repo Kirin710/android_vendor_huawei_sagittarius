@@ -1,0 +1,4 @@
+version=1.10.20.105
+type=BSOHJSONCONFIG
+subtype=generic
+compatibleVersion=1

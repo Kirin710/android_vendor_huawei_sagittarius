@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="gb2312"?>
+<Config>
+    <Global>
+        <EnableOptimize>1</EnableOptimize>
+        <!-- in scene detect, when hdr and multidenoise is enable, select priotiry algo according to iso-->
+        <!-- less than ISO, hdr priority; larger than ISO, multidenoise priority -->
+        <ISO>400</ISO>
+    </Global>
+</Config>

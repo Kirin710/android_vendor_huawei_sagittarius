@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="GB2312"?>
+<Modules>
+    <Module>
+        <ID>1</ID>
+        <Name>PDALGO</Name>
+        <Path>/odm/lib64/libsamsungpdaflib.so</Path>
+        <AdapterPath>/odm/lib64/hwcam/hwcam.s5k3l6.pd.so</AdapterPath>
+        <Switch>0</Switch>
+        <Spec>S5K3L6</Spec>
+        <Accelerator>1</Accelerator>
+    </Module>
+</Modules>

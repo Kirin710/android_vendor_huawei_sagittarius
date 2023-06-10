@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="GB2312"?>
+<HwBeautyParams faceAttr="1"  paramVersion="50">
+    <Mode name="Preview">
+        <ParamterDefault><!--for all other females not included in below sets, always needed-->
+            <Level1  SkinSoften="5" SkinSoftenMode="0" SkinToneBright="0"  FaceSlender="0" />
+            <Level2  SkinSoften="10" SkinSoftenMode="0" SkinToneBright="5"  FaceSlender="1" />
+            <Level3  SkinSoften="20" SkinSoftenMode="0" SkinToneBright="10" FaceSlender="3" />
+            <Level4  SkinSoften="20" SkinSoftenMode="0" SkinToneBright="15" FaceSlender="3" />
+            <Level5  SkinSoften="20" SkinSoftenMode="0" SkinToneBright="18" FaceSlender="5" />
+            <Level6  SkinSoften="20" SkinSoftenMode="0" SkinToneBright="25" FaceSlender="8" />
+            <Level7  SkinSoften="20" SkinSoftenMode="0" SkinToneBright="20" FaceSlender="10" />
+            <Level8  SkinSoften="20" SkinSoftenMode="0" SkinToneBright="28" FaceSlender="13" />
+            <Level9  SkinSoften="20" SkinSoftenMode="0" SkinToneBright="35" FaceSlender="15" />
+            <Level10 SkinSoften="20" SkinSoftenMode="0" SkinToneBright="40" FaceSlender="15" />
+        </ParamterDefault>
+        <ParamterSet gender="female" skin="2" age_start="1" age_end="25"><!--You can add, modify or delete ParamterSet as your requirement-->
+            <Level1  SkinSoften="5"  SkinSoftenMode="0" SkinToneBright="0"  FaceSlender="0" />
+            <Level2  SkinSoften="10" SkinSoftenMode="0" SkinToneBright="5"  FaceSlender="1" />
+            <Level3  SkinSoften="20" SkinSoftenMode="0" SkinToneBright="10" FaceSlender="3" />
+            <Level4  SkinSoften="20" SkinSoftenMode="0" SkinToneBright="15" FaceSlender="3" />
+            <Level5  SkinSoften="20" SkinSoftenMode="0" SkinToneBright="18" FaceSlender="5"  />
+            <Level6  SkinSoften="20" SkinSoftenMode="0" SkinToneBright="25" FaceSlender="8"  />
+            <Level7  SkinSoften="20" SkinSoftenMode="0" SkinToneBright="28" FaceSlender="10" />
+            <Level8  SkinSoften="20" SkinSoftenMode="0" SkinToneBright="30" FaceSlender="13" />
+            <Level9  SkinSoften="20" SkinSoftenMode="0" SkinToneBright="35" FaceSlender="15" />
+            <Level10 SkinSoften="20" SkinSoftenMode="0" SkinToneBright="40" FaceSlender="15" />
+        </ParamterSet>
+        <ParamterSet gender="female" skin="2" age_start="26" age_end="35">
+            <Level1  SkinSoften="5"  SkinSoftenMode="0" SkinToneBright="5"  FaceSlender="0"  />
+            <Level2  SkinSoften="10" SkinSoftenMode="0" SkinToneBright="10" FaceSlender="1"  />
+            <Level3  SkinSoften="20" SkinSoftenMode="0" SkinToneBright="15" FaceSlender="3"  />
+            <Level4  SkinSoften="20" SkinSoftenMode="0" SkinToneBright="18" FaceSlender="3"  />
+            <Level5  SkinSoften="20" SkinSoftenMode="0" SkinToneBright="20" FaceSlender="5"  />
+            <Level6  SkinSoften="20" SkinSoftenMode="0" SkinToneBright="25" FaceSlender="8"  />
+            <Level7  SkinSoften="20" SkinSoftenMode="0" SkinToneBright="28" FaceSlender="10" />
+            <Level8  SkinSoften="20" SkinSoftenMode="0" SkinToneBright="30" FaceSlender="13" />
+            <Level9  SkinSoften="20" SkinSoftenMode="0" SkinToneBright="35" FaceSlender="15" />
+            <Level10 SkinSoften="20" SkinSoftenMode="0" SkinToneBright="40" FaceSlender="15" />
+        </ParamterSet>
+        <ParamterSet gender="female" skin="2" age_start="36" age_end="80">
+            <Level1  SkinSoften="5"  SkinSoftenMode="0" SkinToneBright="5"  FaceSlender="0"  />
+            <Level2  SkinSoften="10" SkinSoftenMode="0" SkinToneBright="10" FaceSlender="1"  />
+            <Level3  SkinSoften="20" SkinSoftenMode="0" SkinToneBright="15" FaceSlender="3"  />
+            <Level4  SkinSoften="20" SkinSoftenMode="0" SkinToneBright="18" FaceSlender="3"  />
+            <Level5  SkinSoften="20" SkinSoftenMode="0" SkinToneBright="20" FaceSlender="5"  />
+            <Level6  SkinSoften="20" SkinSoftenMode="0" SkinToneBright="25" FaceSlender="8"  />
+            <Level7  SkinSoften="20" SkinSoftenMode="0" SkinToneBright="28" FaceSlender="10" />
+            <Level8  SkinSoften="20" SkinSoftenMode="0" SkinToneBright="30" FaceSlender="13" />
+            <Level9  SkinSoften="20" SkinSoftenMode="0" SkinToneBright="35" FaceSlender="15" />
+            <Level10 SkinSoften="20" SkinSoftenMode="0" SkinToneBright="40" FaceSlender="15" />
+        </ParamterSet>
+    </Mode>
+    <Mode name="Capture">
+        <ParamterDefault><!--for all other females not included in below sets, always needed-->
+            <Level1  SkinSoften="5"  SkinToneBright="2"  NoseHighlight="50" LipBeauty="50" EyeBrighten="0"  FaceSlender="0"  EyeEnlargement="0" Depouch="100"  Deblemish="100"  RemoveShine="0" Relighting="0" TeethWhiten="0" SkinToneStyle="0"/>
+            <Level2  SkinSoften="10" SkinToneBright="5"  NoseHighlight="52" LipBeauty="80" EyeBrighten="5"  FaceSlender="1"  EyeEnlargement="0" Depouch="100"  Deblemish="100"  RemoveShine="0" Relighting="0" TeethWhiten="0" SkinToneStyle="0"/>
+            <Level3  SkinSoften="20" SkinToneBright="8"  NoseHighlight="55" LipBeauty="90" EyeBrighten="10" FaceSlender="3"  EyeEnlargement="0" Depouch="100"  Deblemish="100"  RemoveShine="0" Relighting="0" TeethWhiten="0" SkinToneStyle="0"/>
+            <Level4  SkinSoften="20" SkinToneBright="10" NoseHighlight="58" LipBeauty="95" EyeBrighten="15" FaceSlender="3"  EyeEnlargement="0" Depouch="100"  Deblemish="100"  RemoveShine="0" Relighting="0" TeethWhiten="0" SkinToneStyle="0"/>
+            <Level5  SkinSoften="20" SkinToneBright="15" NoseHighlight="60" LipBeauty="90" EyeBrighten="20" FaceSlender="5"  EyeEnlargement="0" Depouch="100"  Deblemish="100"  RemoveShine="0" Relighting="0" TeethWhiten="0" SkinToneStyle="0"/>
+            <Level6  SkinSoften="20" SkinToneBright="18" NoseHighlight="62" LipBeauty="93" EyeBrighten="20" FaceSlender="8"  EyeEnlargement="0" Depouch="100"  Deblemish="100"  RemoveShine="0" Relighting="0" TeethWhiten="0" SkinToneStyle="0"/>
+            <Level7  SkinSoften="20" SkinToneBright="20" NoseHighlight="65" LipBeauty="95" EyeBrighten="20" FaceSlender="10" EyeEnlargement="0" Depouch="100"  Deblemish="100"  RemoveShine="0" Relighting="0" TeethWhiten="0" SkinToneStyle="0"/>
+            <Level8  SkinSoften="20" SkinToneBright="22" NoseHighlight="70" LipBeauty="95" EyeBrighten="20" FaceSlender="13" EyeEnlargement="0" Depouch="100"  Deblemish="100"  RemoveShine="0" Relighting="0" TeethWhiten="0" SkinToneStyle="0"/>
+            <Level9  SkinSoften="20" SkinToneBright="25" NoseHighlight="75" LipBeauty="95" EyeBrighten="20" FaceSlender="15" EyeEnlargement="0" Depouch="100"  Deblemish="100"  RemoveShine="0" Relighting="0" TeethWhiten="0" SkinToneStyle="0"/>
+            <Level10 SkinSoften="20" SkinToneBright="30" NoseHighlight="85" LipBeauty="95" EyeBrighten="20" FaceSlender="15" EyeEnlargement="0" Depouch="100"  Deblemish="100"  RemoveShine="0" Relighting="0" TeethWhiten="0" SkinToneStyle="0"/>
+        </ParamterDefault>
+        <ParamterSet gender="female" skin="2" age_start="1" age_end="25"><!--You can add, modify or delete ParamterSet as your requirement-->
+            <Level1  SkinSoften="5"  SkinToneBright="2"  NoseHighlight="50" LipBeauty="50" EyeBrighten="0"  FaceSlender="0"  EyeEnlargement="0" Depouch="100" Deblemish="100" RemoveShine="0" Relighting="0" SkinToneStyle="0" TeethWhiten="0" />
+            <Level2  SkinSoften="10" SkinToneBright="5"  NoseHighlight="52" LipBeauty="80" EyeBrighten="5"  FaceSlender="1"  EyeEnlargement="0" Depouch="100" Deblemish="100" RemoveShine="0" Relighting="0" SkinToneStyle="0" TeethWhiten="0" />
+            <Level3  SkinSoften="20" SkinToneBright="8"  NoseHighlight="55" LipBeauty="90" EyeBrighten="10" FaceSlender="3"  EyeEnlargement="0" Depouch="100" Deblemish="100" RemoveShine="0" Relighting="0" SkinToneStyle="0" TeethWhiten="0" />
+            <Level4  SkinSoften="20" SkinToneBright="10" NoseHighlight="58" LipBeauty="95" EyeBrighten="15" FaceSlender="3"  EyeEnlargement="0" Depouch="100" Deblemish="100" RemoveShine="0" Relighting="0" SkinToneStyle="0" TeethWhiten="0" />
+            <Level5  SkinSoften="20" SkinToneBright="15" NoseHighlight="60" LipBeauty="90" EyeBrighten="20" FaceSlender="5"  EyeEnlargement="0" Depouch="100" Deblemish="100" RemoveShine="0" Relighting="0" SkinToneStyle="0" TeethWhiten="0" />
+            <Level6  SkinSoften="20" SkinToneBright="18" NoseHighlight="62" LipBeauty="93" EyeBrighten="20" FaceSlender="8"  EyeEnlargement="0" Depouch="100" Deblemish="100" RemoveShine="0" Relighting="0" SkinToneStyle="0" TeethWhiten="0" />
+            <Level7  SkinSoften="20" SkinToneBright="20" NoseHighlight="65" LipBeauty="95" EyeBrighten="20" FaceSlender="10" EyeEnlargement="0" Depouch="100" Deblemish="100" RemoveShine="0" Relighting="0" SkinToneStyle="0" TeethWhiten="0" />
+            <Level8  SkinSoften="20" SkinToneBright="22" NoseHighlight="70" LipBeauty="95" EyeBrighten="20" FaceSlender="13" EyeEnlargement="0" Depouch="100" Deblemish="100" RemoveShine="0" Relighting="0" SkinToneStyle="0" TeethWhiten="0" />
+            <Level9  SkinSoften="20" SkinToneBright="25" NoseHighlight="75" LipBeauty="95" EyeBrighten="20" FaceSlender="15" EyeEnlargement="0" Depouch="100" Deblemish="100" RemoveShine="0" Relighting="0" SkinToneStyle="0" TeethWhiten="0" />
+            <Level10 SkinSoften="20" SkinToneBright="30" NoseHighlight="85" LipBeauty="95" EyeBrighten="20" FaceSlender="15" EyeEnlargement="0" Depouch="100" Deblemish="100" RemoveShine="0" Relighting="0" SkinToneStyle="0" TeethWhiten="0" />
+        </ParamterSet>
+        <ParamterSet gender="female" skin="2" age_start="26" age_end="35">
+            <Level1  SkinSoften="5"  SkinToneBright="2"  NoseHighlight="50" LipBeauty="50" EyeBrighten="0"  FaceSlender="0"  EyeEnlargement="0" Depouch="100" Deblemish="100" RemoveShine="0" Relighting="0" SkinToneStyle="0" TeethWhiten="0" />
+            <Level2  SkinSoften="10" SkinToneBright="5"  NoseHighlight="52" LipBeauty="80" EyeBrighten="5"  FaceSlender="1"  EyeEnlargement="0" Depouch="100" Deblemish="100" RemoveShine="0" Relighting="0" SkinToneStyle="0" TeethWhiten="0" />
+            <Level3  SkinSoften="20" SkinToneBright="8"  NoseHighlight="55" LipBeauty="90" EyeBrighten="10" FaceSlender="3"  EyeEnlargement="0" Depouch="100" Deblemish="100" RemoveShine="0" Relighting="0" SkinToneStyle="0" TeethWhiten="0" />
+            <Level4  SkinSoften="20" SkinToneBright="10" NoseHighlight="58" LipBeauty="95" EyeBrighten="15" FaceSlender="3"  EyeEnlargement="0" Depouch="100" Deblemish="100" RemoveShine="0" Relighting="0" SkinToneStyle="0" TeethWhiten="0" />
+            <Level5  SkinSoften="20" SkinToneBright="15" NoseHighlight="60" LipBeauty="90" EyeBrighten="20" FaceSlender="5"  EyeEnlargement="0" Depouch="100" Deblemish="100" RemoveShine="0" Relighting="0" SkinToneStyle="0" TeethWhiten="0" />
+            <Level6  SkinSoften="20" SkinToneBright="18" NoseHighlight="62" LipBeauty="93" EyeBrighten="20" FaceSlender="8"  EyeEnlargement="0" Depouch="100" Deblemish="100" RemoveShine="0" Relighting="0" SkinToneStyle="0" TeethWhiten="0" />
+            <Level7  SkinSoften="20" SkinToneBright="20" NoseHighlight="65" LipBeauty="95" EyeBrighten="20" FaceSlender="10" EyeEnlargement="0" Depouch="100" Deblemish="100" RemoveShine="0" Relighting="0" SkinToneStyle="0" TeethWhiten="0" />
+            <Level8  SkinSoften="20" SkinToneBright="22" NoseHighlight="70" LipBeauty="95" EyeBrighten="20" FaceSlender="13" EyeEnlargement="0" Depouch="100" Deblemish="100" RemoveShine="0" Relighting="0" SkinToneStyle="0" TeethWhiten="0" />
+            <Level9  SkinSoften="20" SkinToneBright="25" NoseHighlight="75" LipBeauty="95" EyeBrighten="20" FaceSlender="15" EyeEnlargement="0" Depouch="100" Deblemish="100" RemoveShine="0" Relighting="0" SkinToneStyle="0" TeethWhiten="0" />
+            <Level10 SkinSoften="20" SkinToneBright="30" NoseHighlight="85" LipBeauty="95" EyeBrighten="20" FaceSlender="15" EyeEnlargement="0" Depouch="100" Deblemish="100" RemoveShine="0" Relighting="0" SkinToneStyle="0" TeethWhiten="0" />
+        </ParamterSet>
+        <ParamterSet gender="female" skin="2" age_start="36" age_end="80">
+            <Level1  SkinSoften="5"   SkinToneBright="2" NoseHighlight="50" LipBeauty="50" EyeBrighten="0"  FaceSlender="0"  EyeEnlargement="0" Depouch="100" Deblemish="100" RemoveShine="0" Relighting="0" SkinToneStyle="0" TeethWhiten="0" />
+            <Level2  SkinSoften="10"  SkinToneBright="5" NoseHighlight="52" LipBeauty="80" EyeBrighten="5"  FaceSlender="1"  EyeEnlargement="0" Depouch="100" Deblemish="100" RemoveShine="0" Relighting="0" SkinToneStyle="0" TeethWhiten="0" />
+            <Level3  SkinSoften="20"  SkinToneBright="8" NoseHighlight="55" LipBeauty="90" EyeBrighten="10" FaceSlender="3"  EyeEnlargement="0" Depouch="100" Deblemish="100" RemoveShine="0" Relighting="0" SkinToneStyle="0" TeethWhiten="0" />
+            <Level4  SkinSoften="20" SkinToneBright="10" NoseHighlight="58" LipBeauty="95" EyeBrighten="15" FaceSlender="3"  EyeEnlargement="0" Depouch="100" Deblemish="100" RemoveShine="0" Relighting="0" SkinToneStyle="0" TeethWhiten="0" />
+            <Level5  SkinSoften="20" SkinToneBright="15" NoseHighlight="60" LipBeauty="90" EyeBrighten="20" FaceSlender="5"  EyeEnlargement="0" Depouch="100" Deblemish="100" RemoveShine="0" Relighting="0" SkinToneStyle="0" TeethWhiten="0" />
+            <Level6  SkinSoften="20" SkinToneBright="18" NoseHighlight="62" LipBeauty="93" EyeBrighten="20" FaceSlender="8"  EyeEnlargement="0" Depouch="100" Deblemish="100" RemoveShine="0" Relighting="0" SkinToneStyle="0" TeethWhiten="0" />
+            <Level7  SkinSoften="20" SkinToneBright="20" NoseHighlight="65" LipBeauty="95" EyeBrighten="20" FaceSlender="10" EyeEnlargement="0" Depouch="100" Deblemish="100" RemoveShine="0" Relighting="0" SkinToneStyle="0" TeethWhiten="0" />
+            <Level8  SkinSoften="20" SkinToneBright="22" NoseHighlight="70" LipBeauty="95" EyeBrighten="20" FaceSlender="13" EyeEnlargement="0" Depouch="100" Deblemish="100" RemoveShine="0" Relighting="0" SkinToneStyle="0" TeethWhiten="0" />
+            <Level9  SkinSoften="20" SkinToneBright="25" NoseHighlight="75" LipBeauty="95" EyeBrighten="20" FaceSlender="15" EyeEnlargement="0" Depouch="100" Deblemish="100" RemoveShine="0" Relighting="0" SkinToneStyle="0" TeethWhiten="0" />
+            <Level10 SkinSoften="20" SkinToneBright="30" NoseHighlight="85" LipBeauty="95" EyeBrighten="20" FaceSlender="15" EyeEnlargement="0" Depouch="100" Deblemish="100" RemoveShine="0" Relighting="0" SkinToneStyle="0" TeethWhiten="0" />
+        </ParamterSet>
+    </Mode>
+    <Mode name="Dark">
+        <ParamterDefault><!--for all other females not included in below sets, always needed-->
+            <Level1  SkinSoften="5"  SkinToneBright="2"  NoseHighlight="50" LipBeauty="50" EyeBrighten="0"  FaceSlender="0"  EyeEnlargement="0" Depouch="100" Deblemish="100" RemoveShine="0" Relighting="0" SkinToneStyle="0" TeethWhiten="0" />
+            <Level2  SkinSoften="10" SkinToneBright="5"  NoseHighlight="52" LipBeauty="80" EyeBrighten="5"  FaceSlender="1"  EyeEnlargement="0" Depouch="100" Deblemish="100" RemoveShine="0" Relighting="0" SkinToneStyle="0" TeethWhiten="0" />
+            <Level3  SkinSoften="20" SkinToneBright="8"  NoseHighlight="55" LipBeauty="90" EyeBrighten="10" FaceSlender="3"  EyeEnlargement="0" Depouch="100" Deblemish="100" RemoveShine="0" Relighting="0" SkinToneStyle="0" TeethWhiten="0" />
+            <Level4  SkinSoften="20" SkinToneBright="10" NoseHighlight="58" LipBeauty="95" EyeBrighten="15" FaceSlender="3"  EyeEnlargement="0" Depouch="100" Deblemish="100" RemoveShine="0" Relighting="0" SkinToneStyle="0" TeethWhiten="0" />
+            <Level5  SkinSoften="20" SkinToneBright="15" NoseHighlight="60" LipBeauty="90" EyeBrighten="20" FaceSlender="5"  EyeEnlargement="0" Depouch="100" Deblemish="100" RemoveShine="0" Relighting="0" SkinToneStyle="0" TeethWhiten="0" />
+            <Level6  SkinSoften="20" SkinToneBright="18" NoseHighlight="62" LipBeauty="93" EyeBrighten="20" FaceSlender="8"  EyeEnlargement="0" Depouch="100" Deblemish="100" RemoveShine="0" Relighting="0" SkinToneStyle="0" TeethWhiten="0" />
+            <Level7  SkinSoften="20" SkinToneBright="20" NoseHighlight="65" LipBeauty="95" EyeBrighten="20" FaceSlender="10" EyeEnlargement="0" Depouch="100" Deblemish="100" RemoveShine="0" Relighting="0" SkinToneStyle="0" TeethWhiten="0" />
+            <Level8  SkinSoften="20" SkinToneBright="22" NoseHighlight="68" LipBeauty="95" EyeBrighten="20" FaceSlender="13" EyeEnlargement="0" Depouch="100" Deblemish="100" RemoveShine="0" Relighting="0" SkinToneStyle="0" TeethWhiten="0" />
+            <Level9  SkinSoften="20" SkinToneBright="25" NoseHighlight="70" LipBeauty="95" EyeBrighten="20" FaceSlender="15" EyeEnlargement="0" Depouch="100" Deblemish="100" RemoveShine="0" Relighting="0" SkinToneStyle="0" TeethWhiten="0" />
+            <Level10 SkinSoften="20" SkinToneBright="30" NoseHighlight="75" LipBeauty="95" EyeBrighten="20" FaceSlender="15" EyeEnlargement="0" Depouch="100" Deblemish="100" RemoveShine="0" Relighting="0" SkinToneStyle="0" TeethWhiten="0" />
+        </ParamterDefault>
+        <ParamterSet gender="female" skin="2" age_start="1" age_end="25"><!--You can add, modify or delete ParamterSet as your requirement-->
+            <Level1  SkinSoften="5"  SkinToneBright="2"  NoseHighlight="50" LipBeauty="50" EyeBrighten="0"  FaceSlender="0"  EyeEnlargement="0" Depouch="100" Deblemish="100" RemoveShine="0" Relighting="0" SkinToneStyle="0" TeethWhiten="0" />
+            <Level2  SkinSoften="10" SkinToneBright="5"  NoseHighlight="52" LipBeauty="80" EyeBrighten="5"  FaceSlender="1"  EyeEnlargement="0" Depouch="100" Deblemish="100" RemoveShine="0" Relighting="0" SkinToneStyle="0" TeethWhiten="0" />
+            <Level3  SkinSoften="20" SkinToneBright="8"  NoseHighlight="55" LipBeauty="90" EyeBrighten="10" FaceSlender="3"  EyeEnlargement="0" Depouch="100" Deblemish="100" RemoveShine="0" Relighting="0" SkinToneStyle="0" TeethWhiten="0" />
+            <Level4  SkinSoften="20" SkinToneBright="10" NoseHighlight="58" LipBeauty="95" EyeBrighten="15" FaceSlender="3"  EyeEnlargement="0" Depouch="100" Deblemish="100" RemoveShine="0" Relighting="0" SkinToneStyle="0" TeethWhiten="0" />
+            <Level5  SkinSoften="20" SkinToneBright="15" NoseHighlight="60" LipBeauty="90" EyeBrighten="20" FaceSlender="5"  EyeEnlargement="0" Depouch="100" Deblemish="100" RemoveShine="0" Relighting="0" SkinToneStyle="0" TeethWhiten="0" />
+            <Level6  SkinSoften="20" SkinToneBright="18" NoseHighlight="62" LipBeauty="93" EyeBrighten="20" FaceSlender="8"  EyeEnlargement="0" Depouch="100" Deblemish="100" RemoveShine="0" Relighting="0" SkinToneStyle="0" TeethWhiten="0" />
+            <Level7  SkinSoften="20" SkinToneBright="20" NoseHighlight="65" LipBeauty="95" EyeBrighten="20" FaceSlender="10" EyeEnlargement="0" Depouch="100" Deblemish="100" RemoveShine="0" Relighting="0" SkinToneStyle="0" TeethWhiten="0" />
+            <Level8  SkinSoften="20" SkinToneBright="22" NoseHighlight="68" LipBeauty="95" EyeBrighten="20" FaceSlender="13" EyeEnlargement="0" Depouch="100" Deblemish="100" RemoveShine="0" Relighting="0" SkinToneStyle="0" TeethWhiten="0" />
+            <Level9  SkinSoften="20" SkinToneBright="25" NoseHighlight="70" LipBeauty="95" EyeBrighten="20" FaceSlender="15" EyeEnlargement="0" Depouch="100" Deblemish="100" RemoveShine="0" Relighting="0" SkinToneStyle="0" TeethWhiten="0" />
+            <Level10 SkinSoften="20" SkinToneBright="30" NoseHighlight="75" LipBeauty="95" EyeBrighten="20" FaceSlender="15" EyeEnlargement="0" Depouch="100" Deblemish="100" RemoveShine="0" Relighting="0" SkinToneStyle="0" TeethWhiten="0" />
+        </ParamterSet>
+        <ParamterSet gender="female" skin="2" age_start="26" age_end="35">
+            <Level1  SkinSoften="5"  SkinToneBright="2"  NoseHighlight="50" LipBeauty="50" EyeBrighten="0"  FaceSlender="0"  EyeEnlargement="0" Depouch="100" Deblemish="100" RemoveShine="0" Relighting="0" SkinToneStyle="0" TeethWhiten="0" />
+            <Level2  SkinSoften="10" SkinToneBright="5"  NoseHighlight="52" LipBeauty="80" EyeBrighten="5"  FaceSlender="1"  EyeEnlargement="0" Depouch="100" Deblemish="100" RemoveShine="0" Relighting="0" SkinToneStyle="0" TeethWhiten="0" />
+            <Level3  SkinSoften="20" SkinToneBright="8"  NoseHighlight="55" LipBeauty="90" EyeBrighten="10" FaceSlender="3"  EyeEnlargement="0" Depouch="100" Deblemish="100" RemoveShine="0" Relighting="0" SkinToneStyle="0" TeethWhiten="0" />
+            <Level4  SkinSoften="20" SkinToneBright="10" NoseHighlight="58" LipBeauty="95" EyeBrighten="15" FaceSlender="3"  EyeEnlargement="0" Depouch="100" Deblemish="100" RemoveShine="0" Relighting="0" SkinToneStyle="0" TeethWhiten="0" />
+            <Level5  SkinSoften="20" SkinToneBright="15" NoseHighlight="60" LipBeauty="90" EyeBrighten="20" FaceSlender="5"  EyeEnlargement="0" Depouch="100" Deblemish="100" RemoveShine="0" Relighting="0" SkinToneStyle="0" TeethWhiten="0" />
+            <Level6  SkinSoften="20" SkinToneBright="18" NoseHighlight="62" LipBeauty="93" EyeBrighten="20" FaceSlender="8"  EyeEnlargement="0" Depouch="100" Deblemish="100" RemoveShine="0" Relighting="0" SkinToneStyle="0" TeethWhiten="0" />
+            <Level7  SkinSoften="20" SkinToneBright="20" NoseHighlight="65" LipBeauty="95" EyeBrighten="20" FaceSlender="10" EyeEnlargement="0" Depouch="100" Deblemish="100" RemoveShine="0" Relighting="0" SkinToneStyle="0" TeethWhiten="0" />
+            <Level8  SkinSoften="20" SkinToneBright="22" NoseHighlight="68" LipBeauty="95" EyeBrighten="20" FaceSlender="13" EyeEnlargement="0" Depouch="100" Deblemish="100" RemoveShine="0" Relighting="0" SkinToneStyle="0" TeethWhiten="0" />
+            <Level9  SkinSoften="20" SkinToneBright="25" NoseHighlight="70" LipBeauty="95" EyeBrighten="20" FaceSlender="15" EyeEnlargement="0" Depouch="100" Deblemish="100" RemoveShine="0" Relighting="0" SkinToneStyle="0" TeethWhiten="0" />
+            <Level10 SkinSoften="20" SkinToneBright="30" NoseHighlight="75" LipBeauty="95" EyeBrighten="20" FaceSlender="15" EyeEnlargement="0" Depouch="100" Deblemish="100" RemoveShine="0" Relighting="0" SkinToneStyle="0" TeethWhiten="0" />
+        </ParamterSet>
+        <ParamterSet gender="female" skin="2" age_start="36" age_end="80">
+            <Level1  SkinSoften="5"  SkinToneBright="2"  NoseHighlight="50" LipBeauty="50" EyeBrighten="0"  FaceSlender="0"  EyeEnlargement="0" Depouch="100" Deblemish="100" RemoveShine="0" Relighting="0" SkinToneStyle="0" TeethWhiten="0" />
+            <Level2  SkinSoften="10" SkinToneBright="5"  NoseHighlight="52" LipBeauty="80" EyeBrighten="5"  FaceSlender="1"  EyeEnlargement="0" Depouch="100" Deblemish="100" RemoveShine="0" Relighting="0" SkinToneStyle="0" TeethWhiten="0" />
+            <Level3  SkinSoften="20" SkinToneBright="8"  NoseHighlight="55" LipBeauty="90" EyeBrighten="10" FaceSlender="3"  EyeEnlargement="0" Depouch="100" Deblemish="100" RemoveShine="0" Relighting="0" SkinToneStyle="0" TeethWhiten="0" />
+            <Level4  SkinSoften="20" SkinToneBright="10" NoseHighlight="58" LipBeauty="95" EyeBrighten="15" FaceSlender="3"  EyeEnlargement="0" Depouch="100" Deblemish="100" RemoveShine="0" Relighting="0" SkinToneStyle="0" TeethWhiten="0" />
+            <Level5  SkinSoften="20" SkinToneBright="15" NoseHighlight="60" LipBeauty="90" EyeBrighten="20" FaceSlender="5"  EyeEnlargement="0" Depouch="100" Deblemish="100" RemoveShine="0" Relighting="0" SkinToneStyle="0" TeethWhiten="0" />
+            <Level6  SkinSoften="20" SkinToneBright="18" NoseHighlight="62" LipBeauty="93" EyeBrighten="20" FaceSlender="8"  EyeEnlargement="0" Depouch="100" Deblemish="100" RemoveShine="0" Relighting="0" SkinToneStyle="0" TeethWhiten="0" />
+            <Level7  SkinSoften="20" SkinToneBright="20" NoseHighlight="65" LipBeauty="95" EyeBrighten="20" FaceSlender="10" EyeEnlargement="0" Depouch="100" Deblemish="100" RemoveShine="0" Relighting="0" SkinToneStyle="0" TeethWhiten="0" />
+            <Level8  SkinSoften="20" SkinToneBright="22" NoseHighlight="68" LipBeauty="95" EyeBrighten="20" FaceSlender="13" EyeEnlargement="0" Depouch="100" Deblemish="100" RemoveShine="0" Relighting="0" SkinToneStyle="0" TeethWhiten="0" />
+            <Level9  SkinSoften="20" SkinToneBright="25" NoseHighlight="70" LipBeauty="95" EyeBrighten="20" FaceSlender="15" EyeEnlargement="0" Depouch="100" Deblemish="100" RemoveShine="0" Relighting="0" SkinToneStyle="0" TeethWhiten="0" />
+            <Level10 SkinSoften="20" SkinToneBright="30" NoseHighlight="75" LipBeauty="95" EyeBrighten="20" FaceSlender="15" EyeEnlargement="0" Depouch="100" Deblemish="100" RemoveShine="0" Relighting="0" SkinToneStyle="0" TeethWhiten="0" />
+        </ParamterSet>
+    </Mode>
+    <Mode name="BeautyRatio">
+        <!-- [!!!NOTICE!!!]Below are factors to multiply with female parameters.
+        SkinSoftenMode can only be 0 or 1 now as it's a switch for arcsoft beauty, others are 0.0~1.0-->
+        <GenderRatio>
+            <GenderSet gender="male" SkinSoften="0.7" SkinSoftenMode="1" SkinToneBright="1" NoseHighlight="1" LipBeauty="1" EyeBrighten="0.8" FaceSlender="0.8" EyeEnlargement="0.8" Depouch="0.8" Deblemish="0.8" RemoveShine="0" Relighting="1" SkinToneStyle="1" TeethWhiten="1" />
+        </GenderRatio>
+    </Mode>
+</HwBeautyParams>
+

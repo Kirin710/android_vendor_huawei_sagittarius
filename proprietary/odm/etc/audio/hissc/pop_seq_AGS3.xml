@@ -1,0 +1,19 @@
+<pop>
+  <up>
+      <num name="num" value="4"/>
+          <ctl name="ANA_HEADSET SWITCH ENABLE"/>
+          <ctl name="S2_SRC_I2S2_TX SWITCH I2S2_SWITCH_EN"/>
+          <ctl name="I2S1_I2S_TX SWITCH I2S_SWITCH_EN" value="1"/>
+          <ctl name="I2S1_I2S_RX SWITCH I2S1_I2S_RX_EN" value="1"/>
+  </up>
+  <down>
+      <num name="num" value="4"/>
+          <ctl name="ANA_HEADSET SWITCH ENABLE"/>
+          <ctl name="S2_SRC_I2S2_TX SWITCH I2S2_SWITCH_EN"/>
+          <ctl name="I2S1_I2S_TX SWITCH I2S_SWITCH_EN" value="1"/>
+          <ctl name="I2S1_I2S_RX SWITCH I2S1_I2S_RX_EN" value="1"/>
+  </down>
+  <mute>
+      <mute_num name="num" value="0"/>
+  </mute>
+</pop>
